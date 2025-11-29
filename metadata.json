@@ -1,0 +1,8 @@
+{
+  "name": "Aether: Digital Lifeform",
+  "description": "An autonomous digital entity whose form and mood evolve based on real-time weather, time, and user interactions.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
